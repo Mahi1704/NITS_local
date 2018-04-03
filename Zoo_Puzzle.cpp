@@ -31,4 +31,5 @@ int main()
 	else 
 	cout<<"NO"<<endl;
 	}
+	cout<<"changed";
 }
