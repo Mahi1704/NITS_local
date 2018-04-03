@@ -6,6 +6,7 @@ int main()
 {
 	ll n,i,x,y,t;
 	cin>>t;
+	ll qrs=1;
 	while(t--)
 	{
 	cin>>n;
